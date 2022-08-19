@@ -1,0 +1,22 @@
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\bin\Debug\sumadera1.2.exe.config
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\bin\Debug\sumadera1.2.exe
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\bin\Debug\sumadera1.2.pdb
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\Sumar en Cuadros.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\Sumar en Cuadros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\sumadera1._2.Form1.resources
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\sumadera1._2.Properties.Resources.resources
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\Sumar en Cuadros.csproj.GenerateResource.cache
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\Sumar en Cuadros.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.exe
+C:\Users\Emanuel\Source\Repos\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.pdb
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\Sumar en Cuadros.csproj.AssemblyReference.cache
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\Sumar en Cuadros.csproj.SuggestedBindingRedirects.cache
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\sumadera1._2.Form1.resources
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\sumadera1._2.Properties.Resources.resources
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\Sumar en Cuadros.csproj.GenerateResource.cache
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\Sumar en Cuadros.csproj.CoreCompileInputs.cache
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.exe
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.pdb
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\bin\Debug\sumadera1.2.exe.config
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\bin\Debug\sumadera1.2.exe
+C:\Users\20210787\source\repos\tabla-Sumadoral\sumar.cuadro\sumadera1.2\sumadera1.2\bin\Debug\sumadera1.2.pdb

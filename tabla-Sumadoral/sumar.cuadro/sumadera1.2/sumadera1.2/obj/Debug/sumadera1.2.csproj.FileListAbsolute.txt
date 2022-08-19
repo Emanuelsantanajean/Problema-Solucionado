@@ -1,0 +1,11 @@
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\bin\Debug\sumadera1.2.exe.config
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\bin\Debug\sumadera1.2.exe
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\bin\Debug\sumadera1.2.pdb
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.csproj.AssemblyReference.cache
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\obj\Debug\sumadera1._2.Form1.resources
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\obj\Debug\sumadera1._2.Properties.Resources.resources
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.csproj.GenerateResource.cache
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.csproj.CoreCompileInputs.cache
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.exe
+C:\Users\20220673\source\repos\sumadera1.2\sumadera1.2\obj\Debug\sumadera1.2.pdb
